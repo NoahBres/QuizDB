@@ -66,6 +66,9 @@ tl;dr: You get out of quizbowl what you put into it.
 
 Some 3rd parties have made resources using the QuizDB API (see the [About](/about) page if you'd like to make your own!) _Except unless noted, none of these resources are officially licensed by QuizDB._ They are listed here:
 - A QuizDB mobile app: [https://itunes.apple.com/app/id1439712679](https://itunes.apple.com/app/id1439712679). Officially _recommended_ by QuizDB.
+- A question reader: [http://quizbug2.herokuapp.com](http://quizbug2.herokuapp.com).
+- An Android friendly question reader: [https://play.google.com/store/apps/details?id=io.github.arjunpanickssery.quizdroid&hl=en_US](https://play.google.com/store/apps/details?id=io.github.arjunpanickssery.quizdroid&hl=en_US).
+- An iOS friendly QuizDB mobile app: [https://apps.apple.com/us/app/quizbuddy/id1463917543](https://apps.apple.com/us/app/quizbuddy/id1463917543).
 
 <div id='question-writing' class='anchor'></div>
 
